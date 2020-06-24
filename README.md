@@ -11,7 +11,7 @@ github cards emedded in your page. This is a problem if you are for example embe
 to give your page a darkmode, because your github cards will still be light. However, this fork uses javascript hosted 
 on github (in this repository), which means you can fork this repository, host it with github pages somewhere on your
 website, and replace https://phseiff.com/github-cards in each cards code with the place where you host the repo on your
-website, and bam!, you no longer have to worry about CORS having to be made to the cards!
+website, and bam!, you no longer have to worry about CORS requests having to be made to access the content of the cards!
 
 If you are into graphics and don't believe the first point, here are two screenshots:
 
