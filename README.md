@@ -1,6 +1,6 @@
 # Unofficial GitHub Cards - without google analytics!
 
-This is a fork of the Unofficial Github Cards project, which adds thw following two game changers:
+This is a fork of the Unofficial Github Cards project, which adds the following two game changers:
 
 1. The original Unofficial Github Cards uses Google Analytics (though I myself don't know why), which some people might consider complicated.
 
